@@ -27,7 +27,7 @@ This project demonstrates expertise in:
 - **Representation Learning**: Learning attention-relevant embeddings without explicit labels
 - **Multimodal Fusion**: Integrating gaze, expression, head pose, and affective signals
 
-### Context
+### Background
 
 - **Institution:** Vellore Institute of Technology (VIT Chennai)
 - **Duration:** June 2022 - February 2024
