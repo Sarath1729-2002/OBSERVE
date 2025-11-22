@@ -145,7 +145,7 @@ TEMPO/
 │   └── temporal_learning_v3_79_features.ipynb   # v3: Final optimized
 │
 ├── models/
-│   └── temporal_encoder_79features.pth          # Pre-trained encoder
+│   └── best_overall_model.pth          # trained weights
 │
 ├── requirements.txt                              # Python dependencies
 ├── LICENSE                                       # MIT License
